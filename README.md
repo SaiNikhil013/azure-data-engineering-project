@@ -41,10 +41,10 @@ Power BI Dashboard
 - Azure Resource Group
 - Azure Data Lake Storage Gen2
 - Azure SQL Database
+- Azure Data Factory
 
 Future additions:
 
-- Azure Data Factory
 - Azure Databricks
 - Power BI
 
@@ -67,7 +67,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - ✅ Bronze/Silver/Gold Containers Created
 - ✅ Raw Dataset Uploaded
 - ✅ Azure SQL Database Created
-- ⏳ Azure Data Factory
+- ✅ Azure Data Factory
 - ⏳ Azure Databricks
 - ⏳ Power BI Dashboard
 
@@ -109,6 +109,14 @@ azure-data-engineering-project
 ### Azure SQL Database
 
 <img width="1920" height="1080" alt="azure_SQL_DB" src="https://github.com/user-attachments/assets/5bab29f3-dd66-4dec-a605-b6c55654a1ab" />
+
+### Azure Data Factory
+
+- Created Azure Data Factory instance
+- Configured linked services for ADLS Gen2
+- Built a pipeline to copy data from Bronze to Silver
+- Parameterized the pipeline to support dynamic file names
+- Successfully validated pipeline execution
 
 
 ---
